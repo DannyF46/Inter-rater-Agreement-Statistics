@@ -7,7 +7,9 @@ Press Enter or click GO to recieve two sets of inter-rater agreement statistics,
 - Gwet's AC1, its standard error (σ), and 95% confidence interval (https://www.ncbi.nlm.nih.gov/books/NBK82266/)
 
 This is a refactored version of a tool I made in Winter 2017 while working as an undergrad research assistant 
-with the Optometry department. We were originally using an inter-rater agreement statistic calculator that was made in
+with the Optometry department. Also fixed a bug that misplaced GUI elements when using more than 11 categories.
+
+We were originally using an inter-rater agreement statistic calculator that was made in
 Excel and that made it INCREDIBLY slow to work worth. I got sick of dealing with it so I decided to 
 look up the math behind it and make my own (much faster) calculator in Python. It also gave me something to do
 besides rote data entry all day. 
