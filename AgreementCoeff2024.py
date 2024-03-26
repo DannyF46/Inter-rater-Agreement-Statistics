@@ -1,5 +1,5 @@
 """
-Danny Fusco, 2024
+Danny F., 2024
 
 Run the script, select a number of categories, and enter your data into the array of cells that appear. 
 Press Enter or click GO to recieve two sets of inter-rater agreement statistics, rounded to the nearest decimal of your choice:
