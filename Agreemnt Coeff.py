@@ -7,7 +7,6 @@ it works, and that's really all I was going for. But feel free to improve on
 the code.
 """
 
-
 try:
     import tkinter as tk #Python 3.x
 except ImportError:
