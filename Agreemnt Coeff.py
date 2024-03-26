@@ -1,5 +1,5 @@
 """
-Danny Fusco, 2017
+Danny F., 2017
 
 Hey, so I relize that this code is probably an absolute mess and could be
 greatly optimized/generally better written (eg. less global variables), but
