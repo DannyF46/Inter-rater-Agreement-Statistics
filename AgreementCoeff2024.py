@@ -200,7 +200,7 @@ def Run(): #Calls the coefficient calculations
         k,kSE = Kappa(categories, entries)
         ac, acSE = AC1(categories, entries)
         WriteOutputs(k,kSE,ac,acSE,roundto)
-    except ValueError: #If the user inputs something non-numeric, the output will ask them to fill the empty cells
+    except ValueError: #If the user inputs something non-numeric, the output will ask them to correct the offending cells
         i = 0 #counter: how many cells are not properly filled
         x1 = 0  #(if i=1) horizontal position of cell  
         y1 = 0  #(if i=1) vertical position of cell
