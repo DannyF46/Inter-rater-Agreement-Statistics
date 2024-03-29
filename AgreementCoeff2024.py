@@ -14,7 +14,7 @@ Excel and that made it INCREDIBLY slow to work worth. I got sick of dealing with
 look up the math behind it and make my own (much faster) calculator in Python. It also gave me something to do
 besides rote data entry all day. 
 
-Note: We only used this for 2x2 and 3x3 sets of data. Even though this program allows for general NxN datases, data entry may get tedious when using larger N.  
+Note: We only used this for 2x2 and 3x3 sets of data. Even though this program allows for general NxN datasets, data entry may get tedious when using larger N.  
 This was also my first time making anything with a GUI outside of HTML, so its not very pretty.
 """
 try:
