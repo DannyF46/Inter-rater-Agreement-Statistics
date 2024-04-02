@@ -235,6 +235,7 @@ def Run_key(event): #Lets us bind a key, so that we can run the coefficient calc
     
 #Initialize GUI#
 root = tk.Tk() #Main window
+root.geometry("250x250")
 global Out
 Out = tk.Text(root,height = 0, width = 0) #Defines the text box that contains the output data
 Go = tk.Button(root, text = "GO", width = 5, height = 1, command = Run) #Runs the coefficient calculations on click
